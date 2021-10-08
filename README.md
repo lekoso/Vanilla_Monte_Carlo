@@ -1,0 +1,2 @@
+This is just a simple routine to calculate the value of a simple vanilla option given its current price, exercise price, time, volatility and interest rate.
+It is based on Black Scholes  equation, which assumes a random distribution.
